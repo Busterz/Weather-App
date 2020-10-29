@@ -11,4 +11,4 @@ Languages: HTML, CSS, JavaScript, JQuery, JSP, JSTL
 ## Display 
 Here is how it will look like roughly:
 
-![weatherwebapp-screenshot](weatherwebapp-screenshot.png)
+<img src="weatherwebapp-screenshot.png" alt="weatherwebapp-screenshot" width="700" height="600"/>
