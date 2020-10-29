@@ -1,0 +1,23 @@
+table.locations-table,
+table.temperature-table {
+    background-color: #080;
+    border-spacing: 1px;
+	margin: 0 0 0 0;
+}
+	
+table.locations-table thead th,
+table.locations-table thead td,
+table.temperature-table thead th,
+table.temperature-table thead td{
+	background-color: #9f9;
+	padding: 5px;
+	margin: 1px;
+}
+	
+table.locations-table tbody th,
+table.locations-table tbody td,
+table.temperature-table tbody th,
+table.temperature-table tbody td{
+	background-color: #fff;
+	padding: 2px;
+}
