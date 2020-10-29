@@ -10,3 +10,5 @@ Languages: HTML, CSS, JavaScript, JQuery, JSP, JSTL
 
 ## Display 
 Here is how it will look like roughly:
+
+![weatherwebapp-screenshot](weatherwebapp-screenshot.png)
