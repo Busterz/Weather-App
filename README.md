@@ -7,3 +7,6 @@ Brief explanation on the set-up in general:
 - Java, JSP on Eclipse, Netbeans or any other IDE that supports
 
 Languages: HTML, CSS, JavaScript, JQuery, JSP, JSTL
+
+## Display 
+Here is how it will look like roughly:
